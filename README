@@ -4,6 +4,7 @@ Excel analysis of 9,993 US retail order lines (2014–2017) to find where the bu
 
 ![Dashboard](Dashboard.png)
 
+
 ## Business questions
 1. Which product sub-categories lose money, and is heavy discounting the cause?
 2. Which states generate high sales but negative profit, and why?
