@@ -38,7 +38,7 @@ The real gain will likely be below $135K, since some customers may not buy witho
 
 ## Files
 - `superstore_region_analysis.xlsx`: cleaned data, analysis sheets, pivots and dashboard
-- `Dashboard.png`: dashboard screenshot
+- `Dashboard.png`: Dashboard screenshot
 
 ## Tools
 Excel (SUMIFS, COUNTIFS, XLOOKUP, pivot tables, slicers, charts)
